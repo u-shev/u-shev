@@ -1,16 +1,18 @@
-### Hi there 👋
+Меня зовут Юлия, и я начинающий Python-разработчик. 
+На данный момент я ищу стажировку/работу на должность Python-разработчик
 
-<!--
-**u-shev/u-shev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Моё резюме 
+на [Хабре](https://career.habr.com/u-shev) <br>
+на [Хекслете](https://cv.hexlet.io/ru/resumes/3154)
 
-Here are some ideas to get you started:
+#### Моё портфолио
+[Создание консольных игр](https://github.com/u-shev/python-project-lvl1) <br>
+[Создание cli-утилиты, определяющей разницу между JSON/YML файлами](https://github.com/u-shev/python-project-50) <br>
+[Создание flask-приложения, анализирующего сайты на SEO-пригодность](https://github.com/u-shev/python-project-83) <br>
+[Создание менеджера задач на Django](https://github.com/u-shev/python-project-52) <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Инструменты 
+Python, Django, Linux, HTML, Css, Postgres
+
+#### Мои контакты
+https://t.me/sheveleva_u
