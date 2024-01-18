@@ -1,9 +1,7 @@
 Меня зовут Юлия, и я начинающий Python-разработчик. 
 На данный момент я ищу стажировку/работу на должность Python-разработчик
 
-#### Моё резюме 
-на [Хабре](https://career.habr.com/u-shev) <br>
-на [Хекслете](https://cv.hexlet.io/ru/resumes/3154)
+#### [Моё резюме](https://drive.google.com/file/d/10AbkpuVlN3nncVrbX9QnELGvCJKC1Nee/view?usp=drive_link) 
 
 #### Моё портфолио
 [Учебный сайт с интеграцией с внешним API и рассылкой писем](http://90.156.225.192/), [код](https://github.com/u-shev/space-app) <br>
@@ -32,4 +30,4 @@
 </div>
 
 #### Мои контакты
-https://t.me/sheveleva_u
+https://t.me/sheveleva_u sheveleva.jul@gmail.com
